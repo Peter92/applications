@@ -1,0 +1,2 @@
+# applications
+Detect running applications
